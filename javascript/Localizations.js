@@ -1,6 +1,7 @@
 const Localizations = {
   'languages': [
     'ar', // Arabic
+    'ca', // Catalan
     'da', // Danish
     'de', // German
     'es', // Spanish
@@ -23,6 +24,7 @@ const Localizations = {
   ],
   'page-title': {
     'ar': "Myriad. عملة للجميع.",
+    'ca': "Myriad. Una moneda per a tots.",
     'da': "Myriad. En mønt til alle.",
     'de': "Myriad. Ein Coin für alle.",
     'es': "Myriad. Una moneda para todos.",
@@ -45,9 +47,10 @@ const Localizations = {
   },
   'header-why-myriad-button': {
     'ar': "؟Myriad لماذا ا",
+    'ca': "Per què Myriad?"
     'da': "Hvorfor Myriaf?",
     'de': "Warum Myriad?",
-    'es': "¿Por Qué Myriad?",
+    'es': "¿Por qué Myriad?",
     'fa': "چرا میریاد؟",
     'fr': "Pourquoi Myriad?",
     'it': "Perché Myriad?",
@@ -67,6 +70,7 @@ const Localizations = {
   },
   'header-wallets-button': {
     'ar': "محافظ",
+    'ca': "Carteres",
     'da': "Tegnebøger",
     'de': "Wallets",
     'es': "Billeteras",
@@ -89,6 +93,7 @@ const Localizations = {
   },
   'header-buy-button': {
     'ar': "يشترى",
+    'ca': "Comprar",
     'da': "Købe",
     'de': "Kaufen",
     'es': "Comprar",
@@ -133,6 +138,7 @@ const Localizations = {
   },
   'header-resources-button': {
     'ar': "مصادر",
+    'ca': "Recursos",
     'da': "Ressourcer",
     'de': "Ressourcen",
     'es': "Recursos",
@@ -177,6 +183,7 @@ const Localizations = {
   },
   'hero-title': {
     'ar': "عملة للجميع.",
+    'ca': "Una moneda per a tots",
     'da': "En mønt til alle.",
     'de': "Ein Coin für alle.",
     'es': "Una moneda para todos.",
@@ -199,6 +206,7 @@ const Localizations = {
   },
   'hero-download-wallet-button': {
     'ar': "تحميل المحفظة",
+    'ca': "Descarregar Cartera",
     'da': "download Tegnebog",
     'de': "download Wallet",
     'es': "descargar Billetera",
@@ -221,6 +229,7 @@ const Localizations = {
   },
   'hero-start-mining-button': {
     'ar': "بدء التعدين",
+    'ca': "Comença a extraure",
     'da': "Start Minedrift",
     'de': "Beginne mit dem minen von Myriad.",
     'es': "Comience a extraer",
@@ -243,6 +252,7 @@ const Localizations = {
   },
   'why-myriad-section-header': {
     'ar': "؟Myriad لماذا ا",
+    'ca': "Per què Myriad?",
     'da': "Hvorfor Myriaf?",
     'de': "Warum Myriad?",
     'es': "¿Por Qué Myriad?",
